@@ -1,5 +1,8 @@
 # Organoid Drug Response Simulator
 
+<img width="1436" alt="Screenshot 2025-01-13 at 16 33 58" src="https://github.com/user-attachments/assets/43814198-90ca-4a46-ad6a-335d359a1c4e" />
+
+
 A cutting-edge scientific simulation platform for studying drug responses in organoids using advanced machine learning and interactive data visualization technologies.
 
 ## Overview
